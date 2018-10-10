@@ -21,7 +21,7 @@ support. Chef 0.8+ is recommended. While this cookbook can be used in
 `chef-client` with a Chef Server.
 
 A Windows Azure account is required. The Management Certificate and
-Subscriptoin ID are used to authenticate with Azure.
+Subscription ID are used to authenticate with Azure.
 
 Azure Credentials
 ===============
