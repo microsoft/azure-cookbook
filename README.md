@@ -1,7 +1,7 @@
 Description
 ===========
 
-This cookbook provides resources and providers to create an manage
+This cookbook provides resources and providers to create and manage
 Windows Azure components. Currently supported resources are:
 
 * Storage Accounts ('azure_storage_account')
